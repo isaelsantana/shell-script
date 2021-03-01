@@ -1,0 +1,13 @@
+-eq # igual = 
+-ne # diferente != 
+-gt # maior > 
+-lt # menor <
+-o  # ou || 
+-d  # ser for um diretorio
+-e  # se existir 
+-z  # se existir vazio
+-f  # se conter texto 
+-o  # se o usuario for o dono
+-r  # se o arquivo pode ser lido
+-w  # se o arquivo pode ser alterado
+-x  # se o arquivo pode ser executado
